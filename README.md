@@ -142,7 +142,8 @@ urlpatterns = [
     path('areaofrectangle/', views.rectarea, name="areaofrectangle"),
     path('', views.rectarea, name="areaofrectangleroot"),
 ]
-# SERVER SIDE PROCESSING: (https://github.com/user-attachments/assets/d3448e8e-cdb7-40f8-bd9a-3addd7491f6e)
-# HOMEPAGE: (https://github.com/user-attachments/assets/699e584d-13a2-4555-8728-77ef01184d29)
+# SERVER SIDE PROCESSING:
+# HOMEPAGE: ![area](https://github.com/user-attachments/assets/0dfbdcae-0f21-4807-86f5-67ed3a3f55d0)
+
 # RESULT:
 The program for performing server side processing is completed successfully.
